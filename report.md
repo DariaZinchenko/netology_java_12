@@ -1,8 +1,8 @@
-# Отчёт о тестировании KeyValidator
+# Отчёт о тестировании Credit Card Number Validator
 
 ## Краткое описание
 
-22.11.2020 - 22.11.2020 было проведены: дымовое тестирование и функциональное тестирование приложения Credit Card Number Validator.
+22.11.2020 - 22.11.2020 было проведены: дымовое тестирование и функциональное тестирование приложения [Credit Card Number Validator](https://github.com/DariaZinchenko/netology_java_12/blob/main/src/Main.java).
 
 На тестирование затрачено: 1 час
 
